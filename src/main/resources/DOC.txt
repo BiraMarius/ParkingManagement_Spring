@@ -1,0 +1,17 @@
+//actiuni bariera
+    //scaneaza nr de inmatriculare
+    //ofera ticket
+    //deschide si inchide bariera
+
+    //actiuni automat de bilete
+    //plata parcare
+        //preia ticket
+        //afisare detalii dupa preluarea ticket-ului
+        //proceseaza plata
+        //returneaza ticket
+
+    //endpoint "open" /park /open
+        1.Procesare date
+            -inserare in tabel din baza de date cele 3 atribute primite de la camera
+            -procesare date imprimare ticket
+    //endpoint "close" //plataparcare
